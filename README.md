@@ -12,7 +12,9 @@
 ---
 
 * 🔭 **Currently working on:** Multimodal AI pipelines and GPU multiplexing as a URECA Undergraduate Researcher.
+<!--
 * 🌱 **Currently leading:** Publicity and outreach for the NTU URECA Club as Publications & Publicity Director.
+-->
 * 🏆 **Proudest achievement:** Securing the first-ever Gold medal for Singapore in the Internet of Things (IoT) trade at WorldSkills ASEAN 2023.
 
 ---
