@@ -1,22 +1,15 @@
-<div align="center">
-  <h1>Hi there, I'm Esther Lee 👋</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d934a37d-06bd-4341-a2c7-5aa008c77106" /><div align="center">
+  <h2>Hi there, I'm Esther Lee 👋</h2>
   
   <p><b>Computer Science Undergraduate @ NTU | AI Researcher | IoT Enthusiast</b></p>
   
   <a href="mailto:elyseeshan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=flat-square&logo=gmail&logoColor=white&color=0A192F" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/esther-lee-890971260/"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A192F" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/esther-lee-890971260/](https://estherleeyishanportfolio.webflow.io/)">img src="https://img.shields.io/badge/Website-Portfolio-informational?style=flat-square&logo=googlechrome&logoColor=white&color=0A192F" alt="Website" /></a>
   
-  <br>
-  <img src="https://profile-counter.glitch.me/elyhansee/count.svg" alt="Visitor Count" />
 </div>
 
 ---
-
-### 👩‍💻 About Me
-
-I am a Year 2 Computer Science student at Nanyang Technological University, Singapore, enrolled in the Turing AI Scholars Programme (TAISP). I'm passionate about engineering accessible, energy-efficient AI systems—often referred to as "Green AI"—and exploring the intersection of hardware and software. 
-
-When I'm away from my terminal or the lab, I'm usually exploring creative outlets like photography, painting, or practicing the Guzheng.
 
 * 🔭 **Currently working on:** Multimodal AI pipelines and GPU multiplexing as a URECA Undergraduate Researcher.
 * 🌱 **Currently leading:** Publicity and outreach for the NTU URECA Club as Publications & Publicity Director.
