@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d934a37d-06bd-4341-a2c7-5aa008c77106" /><div align="center">
+
   <h2>Hi there, I'm Esther Lee 👋</h2>
   
   <p><b>Computer Science Undergraduate @ NTU | AI Researcher | IoT Enthusiast</b></p>
