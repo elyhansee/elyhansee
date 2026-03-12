@@ -5,7 +5,7 @@
   
   <a href="mailto:elyseeshan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=flat-square&logo=gmail&logoColor=white&color=0A192F" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/esther-lee-890971260/"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A192F" alt="LinkedIn" /></a>
-  <a href="[https://www.linkedin.com/in/esther-lee-890971260/](https://estherleeyishanportfolio.webflow.io/)"><img src="https://img.shields.io/badge/Website-Portfolio-informational?style=flat-square&logo=googlechrome&logoColor=white&color=0A192F" alt="Website" /></a>
+  <a href="https://estherleeyishanportfolio.webflow.io/"><img src="https://img.shields.io/badge/Website-Portfolio-informational?style=flat-square&logo=googlechrome&logoColor=white&color=0A192F" alt="Website" /></a>
   
 </div>
 
